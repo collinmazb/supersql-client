@@ -147,17 +147,10 @@ public class Console implements Runnable{
         try {
             statement = con.createStatement();
             ResultSet resultSet = statement.executeQuery(sql);
-            int col = resultSet.getMetaData().getColumnCount();
-            while(resultSet.next()){
-
-                for(int i = 1; i < col; i++){
-
-                    System.out.print(resultSet.getString(i) + "\t");
-                    if ((i == 2) && (resultSet.getString(i).length() < 8)) {
-                        System.out.print("\t");
-                    }
-                }
-            }
+            BeeLine beeLine = new BeeLine();
+            TableOutputFormat tableOutputFormat = new TableOutputFormat(beeLine);
+            BufferedRows bufferedRows = new BufferedRows(beeLine, resultSet);
+            tableOutputFormat.print(bufferedRows);
         } catch (SQLException e) {
             e.printStackTrace();
         }
