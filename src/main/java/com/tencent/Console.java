@@ -1,10 +1,9 @@
 package com.tencent;
 
 import java.io.IOException;
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
+import java.util.List;
+import java.util.Map;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 import com.google.common.base.Strings;
@@ -15,12 +14,12 @@ import static java.lang.Integer.parseInt;
 import static java.util.Locale.ENGLISH;
 import static java.util.concurrent.TimeUnit.SECONDS;
 import static jline.internal.Configuration.getUserHome;
-import static com.tencent.Completion.commandCompleter;
-import static com.tencent.Completion.lowerCaseCommandCompleter;
+//import static com.tencent.Completion.commandCompleter;
+//import static com.tencent.Completion.lowerCaseCommandCompleter;
 import static com.facebook.presto.sql.parser.StatementSplitter.squeezeStatement;
 
-import jline.console.completer.Completer;
-import jline.console.completer.StringsCompleter;
+//import jline.console.completer.Completer;
+//import jline.console.completer.StringsCompleter;
 import jline.console.history.FileHistory;
 import jline.console.history.History;
 import jline.console.history.MemoryHistory;
@@ -28,6 +27,8 @@ import jline.console.history.MemoryHistory;
 import javax.sound.sampled.Line;
 import java.io.File;
 import java.util.regex.Pattern;
+import com.tencent.supersql.jdbc.SSqlConnection;
+import com.tencent.supersql.jdbc.SSqlDriver;
 
 /**
  * Created by waixingren on 2/22/17.
@@ -41,25 +42,35 @@ public class Console implements Runnable{
 
         AtomicBoolean exiting = new AtomicBoolean();
         interruptThreadOnExit(Thread.currentThread(), exiting);
-        runConsole(exiting);
+        try {
+            runConsole(exiting);
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
     }
 
 
-    private static void runConsole(AtomicBoolean exiting) {
+    private static void runConsole(AtomicBoolean exiting) throws ClassNotFoundException {
 
-        String uaeJdbcString = "jdbc:uae://localhost:8888";
-        Connection con = new UaeConnection();
-        UaeConnection uaeConnection = (UaeConnection) con;
-        try (
-//        TableNameCompleter tableNameCompleter = null;
-//        LineReader reader = new LineReader(getHistory(), commandCompleter(), lowerCaseCommandCompleter(), tableNameCompleter))
-
-                LineReader reader = new LineReader(getHistory())) {
+        String uaeJdbcString = "jdbc:ssql://localhost:7911";
+        Class.forName("com.tencent.supersql.jdbc.SSqlDriver");
+        Connection con = null;
+        SSqlConnection ssqlConnection = null;
+        try {
+            con = DriverManager.getConnection(uaeJdbcString);
+            ssqlConnection = (SSqlConnection)con;
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        try (LineReader reader = new LineReader(getHistory())) {
             while (!exiting.get()) {
 
                 StringBuilder buffer = new StringBuilder();
                 String prompt = "supersql";
 
+                if (ssqlConnection.getCurrentLink() != null) {
+                    prompt += ":" + ssqlConnection.getCurrentLinkName();
+                }
                 if (buffer.length() > 0) {
                     prompt = Strings.repeat(" ", prompt.length() - 1) + "-";
                 }
@@ -126,12 +137,12 @@ public class Console implements Runnable{
 
                 // execute any complete statements
                 String sql = buffer.toString();
-                if(processLink(sql, uaeConnection)){
+                if(processLink(sql, ssqlConnection)){
 
                     continue;
                 }else{
 
-                    executeSql(sql, uaeConnection);
+                    executeSql(sql, ssqlConnection);
                 }
 
 
@@ -170,7 +181,7 @@ public class Console implements Runnable{
     private static boolean processLink(String sql, Connection con){
 
         String terms[] = sql.split(" ");
-        UaeConnection uaeConnection = (UaeConnection)con;
+        SSqlConnection ssqlConnection = (SSqlConnection)con;
         if (isCreateLink(sql)) {
             String linkName = terms[2].trim();
             String userName = terms[5].trim();
@@ -178,12 +189,31 @@ public class Console implements Runnable{
             passwd = passwd.substring(0,passwd.length()-1);
             String driverJdbcUrl = sql.split("using")[1].trim().substring(1);
             driverJdbcUrl = driverJdbcUrl.substring(0, driverJdbcUrl.length()-1);
-            uaeConnection.createLink(driverJdbcUrl, linkName, userName, passwd);
+            ssqlConnection.createLink(driverJdbcUrl, linkName, userName, passwd);
             return true;
         }else if(isUsingLink(sql)){
 
             String linkName = terms[2].trim();
-            uaeConnection.usingLink(linkName);
+            ssqlConnection.usingLink(linkName);
+            return true;
+        }else if(isShowLink(sql)){
+
+             List<String> allLinks = ssqlConnection.getAllLinks();
+            for (String link : allLinks) {
+
+                System.out.println(link);
+            }
+        }
+        return false;
+    }
+
+    private static boolean isShowLink(String sql) {
+
+        String terms[] = sql.split(" ");
+        String first = terms[0].trim();
+        String second = terms[1].trim();
+        if(first.equalsIgnoreCase("show") && second.equalsIgnoreCase("links")){
+
             return true;
         }
         return false;
@@ -194,7 +224,7 @@ public class Console implements Runnable{
         String terms[] = sql.split(" ");
         String first = terms[0].trim();
         String second = terms[1].trim();
-        if(first.equalsIgnoreCase("using") && second.equalsIgnoreCase("link")){
+        if(first.equalsIgnoreCase("use") && second.equalsIgnoreCase("link")){
 
             return true;
         }
