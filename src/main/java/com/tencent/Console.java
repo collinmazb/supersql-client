@@ -38,6 +38,7 @@ public class Console implements Runnable{
 
     private static final Duration EXIT_DELAY = new Duration(3, SECONDS);
     private static final Pattern HISTORY_INDEX_PATTERN = Pattern.compile("!\\d+");
+    public String currentLinkName = null;
     public void run() {
 
         AtomicBoolean exiting = new AtomicBoolean();
@@ -63,13 +64,14 @@ public class Console implements Runnable{
             e.printStackTrace();
         }
         try (LineReader reader = new LineReader(getHistory())) {
+            String promotSubfix = null;
             while (!exiting.get()) {
 
                 StringBuilder buffer = new StringBuilder();
                 String prompt = "supersql";
 
-                if (ssqlConnection.getCurrentLink() != null) {
-                    prompt += ":" + ssqlConnection.getCurrentLinkName();
+                if (promotSubfix != null) {
+                    prompt += ":" + promotSubfix;
                 }
                 if (buffer.length() > 0) {
                     prompt = Strings.repeat(" ", prompt.length() - 1) + "-";
@@ -137,12 +139,18 @@ public class Console implements Runnable{
 
                 // execute any complete statements
                 String sql = buffer.toString();
-                if(processLink(sql, ssqlConnection)){
+                String isLink = processLink(sql, ssqlConnection);
+                if(isLink.equalsIgnoreCase("create link") || isLink.equalsIgnoreCase("show link")){
 
                     continue;
-                }else{
+
+                }else if(isLink.equalsIgnoreCase("not link")){
 
                     executeSql(sql, ssqlConnection);
+                }
+                else{
+
+                    promotSubfix = isLink;
                 }
 
 
@@ -178,7 +186,7 @@ public class Console implements Runnable{
         }
         return false;
     }
-    private static boolean processLink(String sql, Connection con){
+    private static String processLink(String sql, Connection con){
 
         String terms[] = sql.split(" ");
         SSqlConnection ssqlConnection = (SSqlConnection)con;
@@ -190,12 +198,12 @@ public class Console implements Runnable{
             String driverJdbcUrl = sql.split("using")[1].trim().substring(1);
             driverJdbcUrl = driverJdbcUrl.substring(0, driverJdbcUrl.length()-1);
             ssqlConnection.createLink(driverJdbcUrl, linkName, userName, passwd);
-            return true;
+            return "create link";
         }else if(isUsingLink(sql)){
 
             String linkName = terms[2].trim();
             ssqlConnection.usingLink(linkName);
-            return true;
+            return linkName;
         }else if(isShowLink(sql)){
 
              List<String> allLinks = ssqlConnection.getAllLinks();
@@ -203,8 +211,9 @@ public class Console implements Runnable{
 
                 System.out.println(link);
             }
+            return "show link";
         }
-        return false;
+        return "not link";
     }
 
     private static boolean isShowLink(String sql) {

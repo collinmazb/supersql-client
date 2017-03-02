@@ -7,15 +7,145 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d82318ac-a038-4541-9687-86ab9900367e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_tencent_cubeli_uaejdbc_1_0_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_2.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_jdbc_1_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_jdbc_1_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_service_1_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_service_1_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/activation-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/airline-0.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/annotations-2.0.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/ant-1.9.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/ant-launcher-1.9.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/antlr-2.7.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/antlr-runtime-3.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/antlr4-runtime-4.5.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/apache-log4j-extras-1.2.17.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/apacheds-i18n-2.0.0-M15.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/apacheds-kerberos-codec-2.0.0-M15.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/api-asn1-api-1.0.0-M20.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/api-util-1.0.0-M20.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/asm-3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/asm-commons-3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/asm-tree-3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/avro-1.7.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/bonecp-0.8.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-beanutils-1.7.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-beanutils-core-1.8.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-cli-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-codec-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-collections-3.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-compress-1.4.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-configuration-1.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-dbcp-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-digester-1.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-el-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-httpclient-3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-io-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-lang-2.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-logging-1.1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-math3-3.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-net-3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/commons-pool-1.5.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/curator-client-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/curator-framework-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/curator-recipes-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/datanucleus-api-jdo-3.2.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/datanucleus-core-3.2.10.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/datanucleus-rdbms-3.2.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/derby-10.10.2.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/geronimo-annotation_1.0_spec-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/geronimo-jaspic_1.0_spec-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/geronimo-jta_1.1_spec-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/gson-2.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/guava-18.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/guice-3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/guice-servlet-3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hadoop-annotations-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hadoop-auth-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hadoop-common-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hadoop-yarn-api-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hadoop-yarn-common-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hadoop-yarn-server-applicationhistoryservice-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hadoop-yarn-server-common-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hadoop-yarn-server-resourcemanager-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hadoop-yarn-server-web-proxy-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hive-common-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hive-jdbc-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hive-metastore-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hive-serde-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hive-service-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hive-shims-0.20S-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hive-shims-0.23-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hive-shims-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hive-shims-common-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/hive-shims-scheduler-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/htrace-core-3.0.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/httpclient-4.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/httpcore-4.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jackson-core-asl-1.9.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jackson-jaxrs-1.8.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jackson-mapper-asl-1.9.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jackson-xc-1.8.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jansi-1.11.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jasper-compiler-5.5.23.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jasper-runtime-5.5.23.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/java-xmlbuilder-0.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/javax.inject-1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jaxb-api-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jaxb-impl-2.2.3-1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jdo-api-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jersey-client-1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jersey-core-1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jersey-guice-1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jersey-json-1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jersey-server-1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jets3t-0.9.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jettison-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jetty-6.1.26.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jetty-all-7.6.0.v20120127.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jetty-util-6.1.26.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jline-2.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/joda-time-2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jol-core-0.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jpam-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jsch-0.1.42.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/json-20090211.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jsp-api-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jsr305-1.3.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/jta-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/leveldbjni-all-1.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/libfb303-0.9.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/libthrift-0.9.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/log4j-1.2.17.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/mail-1.4.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/netty-3.7.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/opencsv-2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/paranamer-2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/parquet-hadoop-bundle-1.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/presto-jdbc-0.153-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/presto-parser-0.153-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/protobuf-java-2.5.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/servlet-api-2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/slf4j-api-1.7.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/slf4j-log4j12-1.7.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/slice-0.24.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/snappy-java-1.0.4.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/stax-api-1.0-2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/stringtemplate-3.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/uaeclient.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/uaejdbc-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/units-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/xmlenc-0.52.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/xz-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/uaeclient_jar/zookeeper-3.4.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/uaeclient_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tencent_cubeli_uaejdbc_1_0_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libthrift_0_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uaeclient.ipr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uaeclient.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tencent/Console.java" afterPath="$PROJECT_DIR$/src/main/java/com/tencent/Console.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tencent/Rows.java" afterPath="$PROJECT_DIR$/src/main/java/com/tencent/Rows.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uaeclient.iml" afterPath="$PROJECT_DIR$/uaeclient.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,6 +155,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/uaeclient$SupersqlClient.coverage" NAME="SupersqlClient Coverage Results" MODIFIED="1488356391074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tencent.*</FILTER>
+    </SUITE>
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -36,11 +171,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Console.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Console.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/Console.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="60" column="44" lean-forward="false" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="44" />
+            <state relative-caret-position="91">
+              <caret line="123" column="32" lean-forward="false" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,199 +183,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SSqlStatement.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlStatement.class">
+      <file leaf-file-name="SSqlResultSet.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlResultSet.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            <state relative-caret-position="77">
+              <caret line="111" column="16" lean-forward="false" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SupersqlClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/SupersqlClient.java">
+      <file leaf-file-name="SSqlResultSetMetaData.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlResultSetMetaData.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="1274">
+              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeeLineOpts.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/BeeLineOpts.java">
+      <file leaf-file-name="Statement.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/Statement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-490">
-              <caret line="136" column="3" lean-forward="false" selection-start-line="136" selection-start-column="3" selection-end-line="136" selection-end-column="3" />
+            <state relative-caret-position="574">
+              <caret line="64" column="14" lean-forward="false" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
               <folding>
-                <element signature="e#0#16666#0" expanded="false" />
-                <element signature="e#3612#3628#0" expanded="false" />
-                <element signature="e#3693#3709#0" expanded="false" />
-                <element signature="e#4824#4983#0" expanded="false" />
-                <element signature="e#4982#4983#0" expanded="false" />
-                <element signature="e#5307#5308#0" expanded="false" />
-                <element signature="e#5346#5347#0" expanded="false" />
-                <element signature="e#5431#5439#0" expanded="false" />
-                <element signature="e#7315#7323#0" expanded="false" />
-                <element signature="e#9190#9191#0" expanded="false" />
-                <element signature="e#9216#9217#0" expanded="false" />
-                <element signature="e#10129#10130#0" expanded="false" />
-                <element signature="e#10169#10170#0" expanded="false" />
-                <element signature="e#10202#10203#0" expanded="false" />
-                <element signature="e#10227#10228#0" expanded="false" />
-                <element signature="e#10273#10274#0" expanded="false" />
-                <element signature="e#10307#10308#0" expanded="false" />
-                <element signature="e#10344#10345#0" expanded="false" />
-                <element signature="e#10372#10373#0" expanded="false" />
-                <element signature="e#10423#10424#0" expanded="false" />
-                <element signature="e#10461#10462#0" expanded="false" />
-                <element signature="e#10497#10498#0" expanded="false" />
-                <element signature="e#10524#10525#0" expanded="false" />
-                <element signature="e#10569#10570#0" expanded="false" />
-                <element signature="e#10601#10602#0" expanded="false" />
-                <element signature="e#10634#10635#0" expanded="false" />
-                <element signature="e#10658#10659#0" expanded="false" />
-                <element signature="e#10713#10714#0" expanded="false" />
-                <element signature="e#10755#10756#0" expanded="false" />
-                <element signature="e#10793#10794#0" expanded="false" />
-                <element signature="e#10822#10823#0" expanded="false" />
-                <element signature="e#10881#10882#0" expanded="false" />
-                <element signature="e#10927#10928#0" expanded="false" />
-                <element signature="e#10967#10968#0" expanded="false" />
-                <element signature="e#10998#10999#0" expanded="false" />
-                <element signature="e#11059#11060#0" expanded="false" />
-                <element signature="e#11107#11108#0" expanded="false" />
-                <element signature="e#11148#11149#0" expanded="false" />
-                <element signature="e#11180#11181#0" expanded="false" />
-                <element signature="e#11234#11235#0" expanded="false" />
-                <element signature="e#11276#11277#0" expanded="false" />
-                <element signature="e#11313#11314#0" expanded="false" />
-                <element signature="e#11342#11343#0" expanded="false" />
-                <element signature="e#11385#11386#0" expanded="false" />
-                <element signature="e#11419#11420#0" expanded="false" />
-                <element signature="e#11449#11450#0" expanded="false" />
-                <element signature="e#11474#11475#0" expanded="false" />
-                <element signature="e#11529#11530#0" expanded="false" />
-                <element signature="e#11575#11576#0" expanded="false" />
-                <element signature="e#11611#11612#0" expanded="false" />
-                <element signature="e#11642#11643#0" expanded="false" />
-                <element signature="e#11683#11684#0" expanded="false" />
-                <element signature="e#11715#11716#0" expanded="false" />
-                <element signature="e#11744#11745#0" expanded="false" />
-                <element signature="e#11768#11769#0" expanded="false" />
-                <element signature="e#11816#11817#0" expanded="false" />
-                <element signature="e#11852#11853#0" expanded="false" />
-                <element signature="e#11886#11887#0" expanded="false" />
-                <element signature="e#11912#11913#0" expanded="false" />
-                <element signature="e#11981#11982#0" expanded="false" />
-                <element signature="e#12037#12038#0" expanded="false" />
-                <element signature="e#12082#12083#0" expanded="false" />
-                <element signature="e#12118#12119#0" expanded="false" />
-                <element signature="e#12170#12171#0" expanded="false" />
-                <element signature="e#12210#12211#0" expanded="false" />
-                <element signature="e#12246#12247#0" expanded="false" />
-                <element signature="e#12274#12275#0" expanded="false" />
-                <element signature="e#12324#12325#0" expanded="false" />
-                <element signature="e#12362#12363#0" expanded="false" />
-                <element signature="e#12397#12398#0" expanded="false" />
-                <element signature="e#12424#12425#0" expanded="false" />
-                <element signature="e#12460#12461#0" expanded="false" />
-                <element signature="e#12486#12487#0" expanded="false" />
-                <element signature="e#12536#12537#0" expanded="false" />
-                <element signature="e#12572#12573#0" expanded="false" />
-                <element signature="e#12613#12614#0" expanded="false" />
-                <element signature="e#12641#12642#0" expanded="false" />
-                <element signature="e#12672#12673#0" expanded="false" />
-                <element signature="e#12694#12695#0" expanded="false" />
-                <element signature="e#12745#12746#0" expanded="false" />
-                <element signature="e#12783#12784#0" expanded="false" />
-                <element signature="e#13162#13163#0" expanded="false" />
-                <element signature="e#13208#13209#0" expanded="false" />
-                <element signature="e#13244#13245#0" expanded="false" />
-                <element signature="e#13275#13276#0" expanded="false" />
-                <element signature="e#13316#13317#0" expanded="false" />
-                <element signature="e#13344#13345#0" expanded="false" />
-                <element signature="e#13375#13376#0" expanded="false" />
-                <element signature="e#13397#13398#0" expanded="false" />
-                <element signature="e#13450#13451#0" expanded="false" />
-                <element signature="e#13490#13491#0" expanded="false" />
-                <element signature="e#13527#13528#0" expanded="false" />
-                <element signature="e#13555#13556#0" expanded="false" />
-                <element signature="e#13598#13599#0" expanded="false" />
-                <element signature="e#13628#13629#0" expanded="false" />
-                <element signature="e#13659#13660#0" expanded="false" />
-                <element signature="e#13682#13683#0" expanded="false" />
-                <element signature="e#13729#13730#0" expanded="false" />
-                <element signature="e#13763#13764#0" expanded="false" />
-                <element signature="e#13797#13798#0" expanded="false" />
-                <element signature="e#13822#13823#0" expanded="false" />
-                <element signature="e#13864#13865#0" expanded="false" />
-                <element signature="e#13897#13898#0" expanded="false" />
-                <element signature="e#13960#13961#0" expanded="false" />
-                <element signature="e#14010#14011#0" expanded="false" />
-                <element signature="e#14347#14348#0" expanded="false" />
-                <element signature="e#14376#14377#0" expanded="false" />
-                <element signature="e#14429#14430#0" expanded="false" />
-                <element signature="e#14469#14470#0" expanded="false" />
-                <element signature="e#14506#14507#0" expanded="false" />
-                <element signature="e#14534#14535#0" expanded="false" />
-                <element signature="e#14579#14580#0" expanded="false" />
-                <element signature="e#14615#14616#0" expanded="false" />
-                <element signature="e#14646#14647#0" expanded="false" />
-                <element signature="e#14672#14673#0" expanded="false" />
-                <element signature="e#14719#14720#0" expanded="false" />
-                <element signature="e#14742#14743#0" expanded="false" />
-                <element signature="e#14793#14794#0" expanded="false" />
-                <element signature="e#14823#14824#0" expanded="false" />
-                <element signature="e#14892#14893#0" expanded="false" />
-                <element signature="e#14936#14937#0" expanded="false" />
-                <element signature="e#14982#14983#0" expanded="false" />
-                <element signature="e#15020#15021#0" expanded="false" />
-                <element signature="e#15333#15334#0" expanded="false" />
-                <element signature="e#15365#15366#0" expanded="false" />
-                <element signature="e#15426#15427#0" expanded="false" />
-                <element signature="e#15474#15475#0" expanded="false" />
-                <element signature="e#15518#15519#0" expanded="false" />
-                <element signature="e#15577#15578#0" expanded="false" />
-                <element signature="e#15632#15633#0" expanded="false" />
-                <element signature="e#15666#15667#0" expanded="false" />
-                <element signature="e#15834#15835#0" expanded="false" />
-                <element signature="e#15864#15865#0" expanded="false" />
-                <element signature="e#15921#15922#0" expanded="false" />
-                <element signature="e#15965#15966#0" expanded="false" />
-                <element signature="e#16003#16004#0" expanded="false" />
-                <element signature="e#16035#16036#0" expanded="false" />
-                <element signature="e#16093#16094#0" expanded="false" />
-                <element signature="e#16141#16142#0" expanded="false" />
-                <element signature="e#16172#16173#0" expanded="false" />
-                <element signature="e#16193#16194#0" expanded="false" />
-                <element signature="e#16242#16243#0" expanded="false" />
-                <element signature="e#16278#16279#0" expanded="false" />
-                <element signature="e#16312#16313#0" expanded="false" />
-                <element signature="e#16338#16339#0" expanded="false" />
-                <element signature="e#16378#16379#0" expanded="false" />
-                <element signature="e#16411#16412#0" expanded="false" />
-                <element signature="e#16472#16473#0" expanded="false" />
-                <element signature="e#16522#16523#0" expanded="false" />
-                <element signature="e#16563#16564#0" expanded="false" />
-                <element signature="e#16583#16584#0" expanded="false" />
-                <element signature="e#16637#16638#0" expanded="false" />
-                <element signature="e#16661#16662#0" expanded="false" />
+                <element signature="e#0#65869#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Completion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/Completion.java">
+      <file leaf-file-name="ResultSet.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/ResultSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#1705#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="906" column="11" lean-forward="false" selection-start-line="906" selection-start-column="11" selection-end-line="906" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -248,52 +228,98 @@
       <file leaf-file-name="SSqlConnection.class" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlConnection.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="60" column="24" lean-forward="false" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="2560" column="18" lean-forward="false" selection-start-line="2560" selection-start-column="18" selection-end-line="2560" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Locale.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Locale.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="489" column="31" lean-forward="false" selection-start-line="489" selection-start-column="31" selection-end-line="489" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="65" column="14" lean-forward="false" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TableNameCompleter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/TableNameCompleter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+            <state relative-caret-position="318">
+              <caret line="291" column="12" lean-forward="true" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="12" />
               <folding>
+                <element signature="e#8163#8164#0" expanded="true" />
+                <element signature="e#8202#8203#0" expanded="true" />
+                <element signature="e#8244#8245#0" expanded="true" />
+                <element signature="e#8287#8288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rows.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/Rows.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1792">
+              <caret line="159" column="33" lean-forward="false" selection-start-line="159" selection-start-column="24" selection-end-line="159" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#5288#0" expanded="false" />
                 <element signature="imports" expanded="false" />
-                <element signature="e#343#344#0" expanded="false" />
-                <element signature="e#367#368#0" expanded="false" />
+                <element signature="e#2006#2007#0" expanded="false" />
+                <element signature="e#2057#2058#0" expanded="false" />
+                <element signature="e#4309#4310#0" expanded="false" />
+                <element signature="e#4362#4363#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberFormat.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/text/NumberFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1792">
+              <caret line="181" column="22" lean-forward="false" selection-start-line="181" selection-start-column="22" selection-end-line="181" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#48080#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#11318#11319#0" expanded="false" />
+                <element signature="e#11359#11360#0" expanded="false" />
+                <element signature="e#16253#16254#0" expanded="false" />
+                <element signature="e#16292#16293#0" expanded="false" />
+                <element signature="e#16594#16595#0" expanded="false" />
+                <element signature="e#16634#16635#0" expanded="false" />
+                <element signature="e#17589#17590#0" expanded="false" />
+                <element signature="e#17646#17647#0" expanded="false" />
+                <element signature="e#18615#18616#0" expanded="false" />
+                <element signature="e#18672#18673#0" expanded="false" />
+                <element signature="e#20342#20343#0" expanded="false" />
+                <element signature="e#20400#20401#0" expanded="false" />
+                <element signature="e#21309#21310#0" expanded="false" />
+                <element signature="e#21368#21369#0" expanded="false" />
+                <element signature="e#22280#22281#0" expanded="false" />
+                <element signature="e#22338#22339#0" expanded="false" />
+                <element signature="e#25287#25288#0" expanded="false" />
+                <element signature="e#25322#25323#0" expanded="false" />
+                <element signature="e#25594#25595#0" expanded="false" />
+                <element signature="e#25633#25634#0" expanded="false" />
+                <element signature="e#25876#25877#0" expanded="false" />
+                <element signature="e#25919#25920#0" expanded="false" />
+                <element signature="e#27030#27031#0" expanded="false" />
+                <element signature="e#27073#27074#0" expanded="false" />
+                <element signature="e#28182#28183#0" expanded="false" />
+                <element signature="e#28226#28227#0" expanded="false" />
+                <element signature="e#29354#29355#0" expanded="false" />
+                <element signature="e#29398#29399#0" expanded="false" />
+                <element signature="e#30981#30982#0" expanded="false" />
+                <element signature="e#31038#31039#0" expanded="false" />
+                <element signature="e#31693#31694#0" expanded="false" />
+                <element signature="e#31750#31751#0" expanded="false" />
+                <element signature="e#32368#32369#0" expanded="false" />
+                <element signature="e#32425#32426#0" expanded="false" />
+                <element signature="e#33119#33120#0" expanded="false" />
+                <element signature="e#33176#33177#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BufferedRows.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/BufferedRows.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#2065#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1558#1559#0" expanded="false" />
+                <element signature="e#1593#1594#0" expanded="false" />
+                <element signature="e#1619#1620#0" expanded="false" />
+                <element signature="e#1651#1652#0" expanded="false" />
+                <element signature="e#1692#1693#0" expanded="false" />
+                <element signature="e#1724#1725#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -334,7 +360,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tencent/TableNameCompleter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tencent/BufferedRows.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tencent/Beeline.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tencent/Rows.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tencent/OutputFormat.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tencent/UaeClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tencent/SupersqlClient.java" />
@@ -345,6 +370,10 @@
         <option value="$PROJECT_DIR$/../uaejdbc/uaejdbc/src/main/java/com/tencent/UaeConnection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tencent/LineReader.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlResultSet.class" />
+        <option value="$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/gen/SupersqlValue.class" />
+        <option value="$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlResultSetMetaData.class" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tencent/Rows.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tencent/Console.java" />
       </list>
     </option>
@@ -377,24 +406,6 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="Plugins" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="uaeclient" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="assembly" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -440,7 +451,7 @@
     </entry>
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -454,9 +465,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uaeclient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uaeclient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uaeclient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uaeclient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.tencent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -497,78 +534,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uaeclient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uaeclient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uaeclient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uaeclient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uaeclient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uaeclient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tencent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-    <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.6425287" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -925,26 +901,27 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19789983" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4346591" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.046849757" sideWeight="0.46927375" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53977275" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4559659" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24394184" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23182553" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5426136" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24936816" sideWeight="0.4888268" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11789773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43039772" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22617124" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5426136" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12805392" sideWeight="0.53072625" order="6" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -965,58 +942,10 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tencent/Console.java</url>
-          <line>158</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tencent/Console.java</url>
-          <line>144</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/tencent/Console.java</url>
-          <line>182</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/jline/jline/2.13/jline-2.13.jar!/jline/console/ConsoleReader.class</url>
-          <line>1811</line>
-          <properties />
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/DriverManager.java</url>
-          <line>657</line>
-          <properties />
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/DriverManager.java</url>
-          <line>356</line>
-          <properties />
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/DriverManager.java</url>
-          <line>333</line>
-          <properties />
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/DriverManager.java</url>
           <line>618</line>
           <properties />
           <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../../hive/apache-hive-1.2.1-src/jdbc/src/java/org/apache/hive/jdbc/HiveDriver.java</url>
-          <line>104</line>
-          <properties />
-          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../../hive/apache-hive-1.2.1-src/jdbc/src/java/org/apache/hive/jdbc/HiveConnection.java</url>
@@ -1042,8 +971,44 @@
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlResultSet.class</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tencent/Console.java</url>
+          <line>168</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tencent/Rows.java</url>
+          <line>171</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/gen/RawVal.class</url>
+          <line>381</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tencent/Rows.java</url>
+          <line>157</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlResultSet.class</url>
+          <line>339</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="41" />
+      <option name="time" value="49" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1052,49 +1017,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/reflect/Constructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5054">
-          <caret line="422" column="0" lean-forward="false" selection-start-line="422" selection-start-column="0" selection-end-line="422" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5236">
-          <caret line="441" column="0" lean-forward="false" selection-start-line="441" selection-start-column="0" selection-end-line="441" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4704">
-          <caret line="367" column="7" lean-forward="true" selection-start-line="367" selection-start-column="7" selection-end-line="367" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/jline/jline/2.13/jline-2.13-sources.jar!/jline/console/ConsoleReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32970">
-          <caret line="2463" column="26" lean-forward="true" selection-start-line="2463" selection-start-column="26" selection-end-line="2463" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/security/AccessController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3808">
-          <caret line="297" column="31" lean-forward="false" selection-start-line="297" selection-start-column="31" selection-end-line="297" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/ServiceLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4816">
@@ -1102,13 +1024,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/UaeConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="44" column="22" lean-forward="false" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/UaeConnection.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/facebook/presto/presto-jdbc/0.153-SNAPSHOT/presto-jdbc-0.153-SNAPSHOT-sources.jar!/com/facebook/presto/jdbc/PrestoResultSetMetaData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1526">
@@ -1123,21 +1039,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/BufferedRows.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          <folding>
-            <element signature="e#1558#1559#0" expanded="false" />
-            <element signature="e#1593#1594#0" expanded="false" />
-            <element signature="e#1619#1620#0" expanded="false" />
-            <element signature="e#1651#1652#0" expanded="false" />
-            <element signature="e#1692#1693#0" expanded="false" />
-            <element signature="e#1724#1725#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/ColorBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1149,7 +1050,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="1811" column="0" lean-forward="false" selection-start-line="1811" selection-start-column="0" selection-end-line="1811" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1233,21 +1133,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="657" column="0" lean-forward="false" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/jline/jline/2.13/jline-2.13-sources.jar!/jline/console/ConsoleReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32928">
-          <caret line="2460" column="0" lean-forward="false" selection-start-line="2460" selection-start-column="0" selection-end-line="2460" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../uaejdbc/uaejdbc/src/main/java/com/tencent/UaeDriver.java" />
     <entry file="file://$PROJECT_DIR$/../../hive/apache-hive-1.2.1-src/jdbc/src/java/org/apache/hive/jdbc/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1257,23 +1142,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../uaejdbc/uaejdbc/src/main/java/com/tencent/UaeConnection.java" />
-    <entry file="file://$PROJECT_DIR$/../../hive/apache-hive-1.2.1-src/jdbc/src/java/org/apache/hive/jdbc/HiveDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="104" column="47" lean-forward="false" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="47" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#4708#4709#0" expanded="false" />
-            <element signature="e#4759#4760#0" expanded="false" />
-            <element signature="e#4852#4853#0" expanded="false" />
-            <element signature="e#4903#4904#0" expanded="false" />
-            <element signature="e#6228#6229#0" expanded="false" />
-            <element signature="e#6259#6260#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../hive/apache-hive-1.2.1-src/jdbc/src/java/org/apache/hive/jdbc/HiveStatement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3164">
@@ -1312,45 +1180,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/Rows.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="37" column="15" lean-forward="false" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#5260#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#1978#1979#0" expanded="false" />
-            <element signature="e#2029#2030#0" expanded="false" />
-            <element signature="e#4281#4282#0" expanded="false" />
-            <element signature="e#4334#4335#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/ResultSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1694">
-          <caret line="147" column="17" lean-forward="false" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#207463#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/Statement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="64" column="14" lean-forward="false" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#65869#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1358,9 +1187,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#982#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1403,11 +1229,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#343#344#0" expanded="false" />
-            <element signature="e#367#368#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1415,15 +1236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="65" column="14" lean-forward="false" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="60" column="24" lean-forward="false" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1431,161 +1243,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-490">
           <caret line="136" column="3" lean-forward="false" selection-start-line="136" selection-start-column="3" selection-end-line="136" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#16666#0" expanded="false" />
-            <element signature="e#3612#3628#0" expanded="false" />
-            <element signature="e#3693#3709#0" expanded="false" />
-            <element signature="e#4824#4983#0" expanded="false" />
-            <element signature="e#4982#4983#0" expanded="false" />
-            <element signature="e#5307#5308#0" expanded="false" />
-            <element signature="e#5346#5347#0" expanded="false" />
-            <element signature="e#5431#5439#0" expanded="false" />
-            <element signature="e#7315#7323#0" expanded="false" />
-            <element signature="e#9190#9191#0" expanded="false" />
-            <element signature="e#9216#9217#0" expanded="false" />
-            <element signature="e#10129#10130#0" expanded="false" />
-            <element signature="e#10169#10170#0" expanded="false" />
-            <element signature="e#10202#10203#0" expanded="false" />
-            <element signature="e#10227#10228#0" expanded="false" />
-            <element signature="e#10273#10274#0" expanded="false" />
-            <element signature="e#10307#10308#0" expanded="false" />
-            <element signature="e#10344#10345#0" expanded="false" />
-            <element signature="e#10372#10373#0" expanded="false" />
-            <element signature="e#10423#10424#0" expanded="false" />
-            <element signature="e#10461#10462#0" expanded="false" />
-            <element signature="e#10497#10498#0" expanded="false" />
-            <element signature="e#10524#10525#0" expanded="false" />
-            <element signature="e#10569#10570#0" expanded="false" />
-            <element signature="e#10601#10602#0" expanded="false" />
-            <element signature="e#10634#10635#0" expanded="false" />
-            <element signature="e#10658#10659#0" expanded="false" />
-            <element signature="e#10713#10714#0" expanded="false" />
-            <element signature="e#10755#10756#0" expanded="false" />
-            <element signature="e#10793#10794#0" expanded="false" />
-            <element signature="e#10822#10823#0" expanded="false" />
-            <element signature="e#10881#10882#0" expanded="false" />
-            <element signature="e#10927#10928#0" expanded="false" />
-            <element signature="e#10967#10968#0" expanded="false" />
-            <element signature="e#10998#10999#0" expanded="false" />
-            <element signature="e#11059#11060#0" expanded="false" />
-            <element signature="e#11107#11108#0" expanded="false" />
-            <element signature="e#11148#11149#0" expanded="false" />
-            <element signature="e#11180#11181#0" expanded="false" />
-            <element signature="e#11234#11235#0" expanded="false" />
-            <element signature="e#11276#11277#0" expanded="false" />
-            <element signature="e#11313#11314#0" expanded="false" />
-            <element signature="e#11342#11343#0" expanded="false" />
-            <element signature="e#11385#11386#0" expanded="false" />
-            <element signature="e#11419#11420#0" expanded="false" />
-            <element signature="e#11449#11450#0" expanded="false" />
-            <element signature="e#11474#11475#0" expanded="false" />
-            <element signature="e#11529#11530#0" expanded="false" />
-            <element signature="e#11575#11576#0" expanded="false" />
-            <element signature="e#11611#11612#0" expanded="false" />
-            <element signature="e#11642#11643#0" expanded="false" />
-            <element signature="e#11683#11684#0" expanded="false" />
-            <element signature="e#11715#11716#0" expanded="false" />
-            <element signature="e#11744#11745#0" expanded="false" />
-            <element signature="e#11768#11769#0" expanded="false" />
-            <element signature="e#11816#11817#0" expanded="false" />
-            <element signature="e#11852#11853#0" expanded="false" />
-            <element signature="e#11886#11887#0" expanded="false" />
-            <element signature="e#11912#11913#0" expanded="false" />
-            <element signature="e#11981#11982#0" expanded="false" />
-            <element signature="e#12037#12038#0" expanded="false" />
-            <element signature="e#12082#12083#0" expanded="false" />
-            <element signature="e#12118#12119#0" expanded="false" />
-            <element signature="e#12170#12171#0" expanded="false" />
-            <element signature="e#12210#12211#0" expanded="false" />
-            <element signature="e#12246#12247#0" expanded="false" />
-            <element signature="e#12274#12275#0" expanded="false" />
-            <element signature="e#12324#12325#0" expanded="false" />
-            <element signature="e#12362#12363#0" expanded="false" />
-            <element signature="e#12397#12398#0" expanded="false" />
-            <element signature="e#12424#12425#0" expanded="false" />
-            <element signature="e#12460#12461#0" expanded="false" />
-            <element signature="e#12486#12487#0" expanded="false" />
-            <element signature="e#12536#12537#0" expanded="false" />
-            <element signature="e#12572#12573#0" expanded="false" />
-            <element signature="e#12613#12614#0" expanded="false" />
-            <element signature="e#12641#12642#0" expanded="false" />
-            <element signature="e#12672#12673#0" expanded="false" />
-            <element signature="e#12694#12695#0" expanded="false" />
-            <element signature="e#12745#12746#0" expanded="false" />
-            <element signature="e#12783#12784#0" expanded="false" />
-            <element signature="e#13162#13163#0" expanded="false" />
-            <element signature="e#13208#13209#0" expanded="false" />
-            <element signature="e#13244#13245#0" expanded="false" />
-            <element signature="e#13275#13276#0" expanded="false" />
-            <element signature="e#13316#13317#0" expanded="false" />
-            <element signature="e#13344#13345#0" expanded="false" />
-            <element signature="e#13375#13376#0" expanded="false" />
-            <element signature="e#13397#13398#0" expanded="false" />
-            <element signature="e#13450#13451#0" expanded="false" />
-            <element signature="e#13490#13491#0" expanded="false" />
-            <element signature="e#13527#13528#0" expanded="false" />
-            <element signature="e#13555#13556#0" expanded="false" />
-            <element signature="e#13598#13599#0" expanded="false" />
-            <element signature="e#13628#13629#0" expanded="false" />
-            <element signature="e#13659#13660#0" expanded="false" />
-            <element signature="e#13682#13683#0" expanded="false" />
-            <element signature="e#13729#13730#0" expanded="false" />
-            <element signature="e#13763#13764#0" expanded="false" />
-            <element signature="e#13797#13798#0" expanded="false" />
-            <element signature="e#13822#13823#0" expanded="false" />
-            <element signature="e#13864#13865#0" expanded="false" />
-            <element signature="e#13897#13898#0" expanded="false" />
-            <element signature="e#13960#13961#0" expanded="false" />
-            <element signature="e#14010#14011#0" expanded="false" />
-            <element signature="e#14347#14348#0" expanded="false" />
-            <element signature="e#14376#14377#0" expanded="false" />
-            <element signature="e#14429#14430#0" expanded="false" />
-            <element signature="e#14469#14470#0" expanded="false" />
-            <element signature="e#14506#14507#0" expanded="false" />
-            <element signature="e#14534#14535#0" expanded="false" />
-            <element signature="e#14579#14580#0" expanded="false" />
-            <element signature="e#14615#14616#0" expanded="false" />
-            <element signature="e#14646#14647#0" expanded="false" />
-            <element signature="e#14672#14673#0" expanded="false" />
-            <element signature="e#14719#14720#0" expanded="false" />
-            <element signature="e#14742#14743#0" expanded="false" />
-            <element signature="e#14793#14794#0" expanded="false" />
-            <element signature="e#14823#14824#0" expanded="false" />
-            <element signature="e#14892#14893#0" expanded="false" />
-            <element signature="e#14936#14937#0" expanded="false" />
-            <element signature="e#14982#14983#0" expanded="false" />
-            <element signature="e#15020#15021#0" expanded="false" />
-            <element signature="e#15333#15334#0" expanded="false" />
-            <element signature="e#15365#15366#0" expanded="false" />
-            <element signature="e#15426#15427#0" expanded="false" />
-            <element signature="e#15474#15475#0" expanded="false" />
-            <element signature="e#15518#15519#0" expanded="false" />
-            <element signature="e#15577#15578#0" expanded="false" />
-            <element signature="e#15632#15633#0" expanded="false" />
-            <element signature="e#15666#15667#0" expanded="false" />
-            <element signature="e#15834#15835#0" expanded="false" />
-            <element signature="e#15864#15865#0" expanded="false" />
-            <element signature="e#15921#15922#0" expanded="false" />
-            <element signature="e#15965#15966#0" expanded="false" />
-            <element signature="e#16003#16004#0" expanded="false" />
-            <element signature="e#16035#16036#0" expanded="false" />
-            <element signature="e#16093#16094#0" expanded="false" />
-            <element signature="e#16141#16142#0" expanded="false" />
-            <element signature="e#16172#16173#0" expanded="false" />
-            <element signature="e#16193#16194#0" expanded="false" />
-            <element signature="e#16242#16243#0" expanded="false" />
-            <element signature="e#16278#16279#0" expanded="false" />
-            <element signature="e#16312#16313#0" expanded="false" />
-            <element signature="e#16338#16339#0" expanded="false" />
-            <element signature="e#16378#16379#0" expanded="false" />
-            <element signature="e#16411#16412#0" expanded="false" />
-            <element signature="e#16472#16473#0" expanded="false" />
-            <element signature="e#16522#16523#0" expanded="false" />
-            <element signature="e#16563#16564#0" expanded="false" />
-            <element signature="e#16583#16584#0" expanded="false" />
-            <element signature="e#16637#16638#0" expanded="false" />
-            <element signature="e#16661#16662#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1593,18 +1250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#1705#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="2560" column="18" lean-forward="false" selection-start-line="2560" selection-start-column="18" selection-end-line="2560" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1612,33 +1257,313 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="489" column="31" lean-forward="false" selection-start-line="489" selection-start-column="31" selection-end-line="489" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/SupersqlClient.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/jline/jline/2.13/jline-2.13-sources.jar!/jline/console/ConsoleReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="225">
+          <caret line="2460" column="0" lean-forward="false" selection-start-line="2460" selection-start-column="0" selection-end-line="2460" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlStatement.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="210">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/SupersqlClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8624">
+          <caret line="657" column="0" lean-forward="false" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26959#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4492#4493#0" expanded="false" />
+            <element signature="e#4528#4529#0" expanded="false" />
+            <element signature="e#17838#17839#0" expanded="false" />
+            <element signature="e#17876#17877#0" expanded="false" />
+            <element signature="e#18136#18137#0" expanded="false" />
+            <element signature="e#18173#18174#0" expanded="false" />
+            <element signature="e#19826#19827#0" expanded="false" />
+            <element signature="e#19858#19859#0" expanded="false" />
+            <element signature="e#21335#21500#0" expanded="false" />
+            <element signature="e#21499#21500#0" expanded="false" />
+            <element signature="e#21858#23134#0" expanded="false" />
+            <element signature="e#23133#23134#0" expanded="false" />
+            <element signature="e#26755#26756#0" expanded="false" />
+            <element signature="e#26795#26796#0" expanded="false" />
+            <element signature="e#26841#26842#0" expanded="false" />
+            <element signature="e#26901#26902#0" expanded="false" />
+            <element signature="e#26930#26931#0" expanded="false" />
+            <element signature="e#26955#26956#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hive/apache-hive-1.2.1-src/jdbc/src/java/org/apache/hive/jdbc/HiveDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4708#4709#0" expanded="false" />
+            <element signature="e#4759#4760#0" expanded="false" />
+            <element signature="e#4852#4853#0" expanded="false" />
+            <element signature="e#4903#4904#0" expanded="false" />
+            <element signature="e#6228#6229#0" expanded="false" />
+            <element signature="e#6259#6260#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="621" column="15" lean-forward="false" selection-start-line="621" selection-start-column="15" selection-end-line="621" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#124311#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4677#4678#0" expanded="false" />
+            <element signature="e#4714#4715#0" expanded="false" />
+            <element signature="e#5687#5688#0" expanded="false" />
+            <element signature="e#5750#5751#0" expanded="false" />
+            <element signature="e#13098#13099#0" expanded="false" />
+            <element signature="e#13150#13151#0" expanded="false" />
+            <element signature="e#18781#18782#0" expanded="false" />
+            <element signature="e#18834#18835#0" expanded="false" />
+            <element signature="e#20727#20728#0" expanded="false" />
+            <element signature="e#20771#20772#0" expanded="false" />
+            <element signature="e#21961#21962#0" expanded="false" />
+            <element signature="e#22041#22042#0" expanded="false" />
+            <element signature="e#23072#23073#0" expanded="false" />
+            <element signature="e#23112#23113#0" expanded="false" />
+            <element signature="e#29462#29463#0" expanded="false" />
+            <element signature="e#29533#29534#0" expanded="false" />
+            <element signature="e#36393#36394#0" expanded="false" />
+            <element signature="e#36459#36460#0" expanded="false" />
+            <element signature="e#38369#38370#0" expanded="false" />
+            <element signature="e#38423#38424#0" expanded="false" />
+            <element signature="e#47538#47539#0" expanded="false" />
+            <element signature="e#47602#47603#0" expanded="false" />
+            <element signature="e#55800#55801#0" expanded="false" />
+            <element signature="e#55844#55845#0" expanded="false" />
+            <element signature="e#56437#56438#0" expanded="false" />
+            <element signature="e#56514#56515#0" expanded="false" />
+            <element signature="e#58481#58482#0" expanded="false" />
+            <element signature="e#58518#58519#0" expanded="false" />
+            <element signature="e#62860#62861#0" expanded="false" />
+            <element signature="e#62916#62917#0" expanded="false" />
+            <element signature="e#66457#66458#0" expanded="false" />
+            <element signature="e#66495#66496#0" expanded="false" />
+            <element signature="e#70749#70750#0" expanded="false" />
+            <element signature="e#70802#70803#0" expanded="false" />
+            <element signature="e#78240#78241#0" expanded="false" />
+            <element signature="e#78299#78300#0" expanded="false" />
+            <element signature="e#82616#82617#0" expanded="false" />
+            <element signature="e#82667#82668#0" expanded="false" />
+            <element signature="e#82971#82972#0" expanded="false" />
+            <element signature="e#83020#83021#0" expanded="false" />
+            <element signature="e#94598#94599#0" expanded="false" />
+            <element signature="e#94636#94637#0" expanded="false" />
+            <element signature="e#104675#104676#0" expanded="false" />
+            <element signature="e#104730#104731#0" expanded="false" />
+            <element signature="e#111196#111197#0" expanded="false" />
+            <element signature="e#111251#111252#0" expanded="false" />
+            <element signature="e#113343#113344#0" expanded="false" />
+            <element signature="e#113370#113371#0" expanded="false" />
+            <element signature="e#117893#117894#0" expanded="false" />
+            <element signature="e#117955#117956#0" expanded="false" />
+            <element signature="e#118405#118406#0" expanded="false" />
+            <element signature="e#118444#118445#0" expanded="false" />
+            <element signature="e#119456#119457#0" expanded="false" />
+            <element signature="e#119510#119511#0" expanded="false" />
+            <element signature="e#120159#120160#0" expanded="false" />
+            <element signature="e#120213#120214#0" expanded="false" />
+            <element signature="e#120482#120483#0" expanded="false" />
+            <element signature="e#120521#120522#0" expanded="false" />
+            <element signature="e#120889#120890#0" expanded="false" />
+            <element signature="e#120932#120933#0" expanded="false" />
+            <element signature="e#121727#121728#0" expanded="false" />
+            <element signature="e#121769#121770#0" expanded="false" />
+            <element signature="e#122184#122185#0" expanded="false" />
+            <element signature="e#122223#122224#0" expanded="false" />
+            <element signature="e#122645#122646#0" expanded="false" />
+            <element signature="e#122685#122686#0" expanded="false" />
+            <element signature="e#123115#123116#0" expanded="false" />
+            <element signature="e#123156#123157#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/gen/SupersqlValue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="45" column="19" lean-forward="false" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/gen/RawVal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4802">
+          <caret line="381" column="0" lean-forward="false" selection-start-line="381" selection-start-column="0" selection-end-line="381" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="64" column="14" lean-forward="false" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#65869#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/text/NumberFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1792">
+          <caret line="181" column="22" lean-forward="false" selection-start-line="181" selection-start-column="22" selection-end-line="181" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#48080#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#11318#11319#0" expanded="false" />
+            <element signature="e#11359#11360#0" expanded="false" />
+            <element signature="e#16253#16254#0" expanded="false" />
+            <element signature="e#16292#16293#0" expanded="false" />
+            <element signature="e#16594#16595#0" expanded="false" />
+            <element signature="e#16634#16635#0" expanded="false" />
+            <element signature="e#17589#17590#0" expanded="false" />
+            <element signature="e#17646#17647#0" expanded="false" />
+            <element signature="e#18615#18616#0" expanded="false" />
+            <element signature="e#18672#18673#0" expanded="false" />
+            <element signature="e#20342#20343#0" expanded="false" />
+            <element signature="e#20400#20401#0" expanded="false" />
+            <element signature="e#21309#21310#0" expanded="false" />
+            <element signature="e#21368#21369#0" expanded="false" />
+            <element signature="e#22280#22281#0" expanded="false" />
+            <element signature="e#22338#22339#0" expanded="false" />
+            <element signature="e#25287#25288#0" expanded="false" />
+            <element signature="e#25322#25323#0" expanded="false" />
+            <element signature="e#25594#25595#0" expanded="false" />
+            <element signature="e#25633#25634#0" expanded="false" />
+            <element signature="e#25876#25877#0" expanded="false" />
+            <element signature="e#25919#25920#0" expanded="false" />
+            <element signature="e#27030#27031#0" expanded="false" />
+            <element signature="e#27073#27074#0" expanded="false" />
+            <element signature="e#28182#28183#0" expanded="false" />
+            <element signature="e#28226#28227#0" expanded="false" />
+            <element signature="e#29354#29355#0" expanded="false" />
+            <element signature="e#29398#29399#0" expanded="false" />
+            <element signature="e#30981#30982#0" expanded="false" />
+            <element signature="e#31038#31039#0" expanded="false" />
+            <element signature="e#31693#31694#0" expanded="false" />
+            <element signature="e#31750#31751#0" expanded="false" />
+            <element signature="e#32368#32369#0" expanded="false" />
+            <element signature="e#32425#32426#0" expanded="false" />
+            <element signature="e#33119#33120#0" expanded="false" />
+            <element signature="e#33176#33177#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/Rows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1792">
+          <caret line="159" column="33" lean-forward="false" selection-start-line="159" selection-start-column="24" selection-end-line="159" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#5288#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2006#2007#0" expanded="false" />
+            <element signature="e#2057#2058#0" expanded="false" />
+            <element signature="e#4309#4310#0" expanded="false" />
+            <element signature="e#4362#4363#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlResultSetMetaData.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/BufferedRows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2065#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1558#1559#0" expanded="false" />
+            <element signature="e#1593#1594#0" expanded="false" />
+            <element signature="e#1619#1620#0" expanded="false" />
+            <element signature="e#1651#1652#0" expanded="false" />
+            <element signature="e#1692#1693#0" expanded="false" />
+            <element signature="e#1724#1725#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="906" column="11" lean-forward="false" selection-start-line="906" selection-start-column="11" selection-end-line="906" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/gen/SupersqlConnectionService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="38764" column="22" lean-forward="false" selection-start-line="38764" selection-start-column="22" selection-end-line="38764" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="291" column="12" lean-forward="true" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="12" />
+          <folding>
+            <element signature="e#8163#8164#0" expanded="true" />
+            <element signature="e#8202#8203#0" expanded="true" />
+            <element signature="e#8244#8245#0" expanded="true" />
+            <element signature="e#8287#8288#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tencent/Console.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="60" column="44" lean-forward="false" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="44" />
+        <state relative-caret-position="91">
+          <caret line="123" column="32" lean-forward="false" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/tencent/cubeli/uaejdbc/1.0-SNAPSHOT/uaejdbc-1.0-SNAPSHOT.jar!/com/tencent/supersql/jdbc/SSqlResultSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="111" column="16" lean-forward="false" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1677,7 +1602,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.31954023" />
+                <option value="0.6425287" />
               </list>
             </option>
           </splitter-proportions>
@@ -1689,7 +1614,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.31954023" />
+                <option value="0.6425287" />
               </list>
             </option>
           </splitter-proportions>

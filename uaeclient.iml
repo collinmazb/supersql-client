@@ -22,7 +22,7 @@
     <orderEntry type="library" name="Maven: io.airlift:slice:0.24" level="project" />
     <orderEntry type="library" name="Maven: org.openjdk.jol:jol-core:0.2" level="project" />
     <orderEntry type="library" name="Maven: org.antlr:antlr4-runtime:4.5.1" level="project" />
-    <orderEntry type="library" name="Maven: com.tencent.cubeli:uaejdbc:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="uaejdbc" />
     <orderEntry type="library" name="Maven: com.facebook.presto:presto-jdbc:0.153-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hive:hive-jdbc:1.2.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hive:hive-common:1.2.1" level="project" />

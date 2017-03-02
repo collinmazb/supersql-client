@@ -49,7 +49,7 @@ abstract class Rows implements Iterator {
     rsMeta = rs.getMetaData();
     int count = rsMeta.getColumnCount();
     primaryKeys = new Boolean[count];
-    numberFormat = null;
+    numberFormat = NumberFormat.getNumberInstance();
 //    if (beeLine.getOpts().getNumberFormat().equals("default")) {
 //      numberFormat = null;
 //    } else {
